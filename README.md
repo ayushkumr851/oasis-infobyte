@@ -1,1 +1,1 @@
- oasis-infobyte web Development and designing intenship
+Task 1:-We need to create a landing Page with HTML and CSS.In which I learned how to add columns, divide sections, arrange items, add headers, footers. Most importantly, I used my creativity to make the page look impressive. The alignments, the padding, the color palette, boxes and all the other elements on the page require attention. Use CSS carefully to make sure the elements on the page do not overlap.
